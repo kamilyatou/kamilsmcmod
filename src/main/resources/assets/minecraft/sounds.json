@@ -1,0 +1,83 @@
+{
+  "entity.wandering_trader.ambient": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/idle1",
+      "minecraft:entity/wandering_trader/idle2",
+      "minecraft:entity/wandering_trader/idle3",
+      "minecraft:entity/wandering_trader/idle4",
+      "minecraft:entity/wandering_trader/idle5"
+    ]
+  },
+  "entity.wandering_trader.death": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/death"
+    ]
+  },
+  "entity.wandering_trader.disappeared": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/disappeared1",
+      "minecraft:entity/wandering_trader/disappeared2"
+    ]
+  },
+  "entity.wandering_trader.drink_milk": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/drink_milk1",
+      "minecraft:entity/wandering_trader/drink_milk2",
+      "minecraft:entity/wandering_trader/drink_milk3",
+      "minecraft:entity/wandering_trader/drink_milk4",
+      "minecraft:entity/wandering_trader/drink_milk5"
+    ]
+  },
+  "entity.wandering_trader.drink_potion": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/drink_potion1",
+      "minecraft:entity/wandering_trader/drink_potion2"
+    ]
+  },
+  "entity.wandering_trader.haggle": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/haggle1",
+      "minecraft:entity/wandering_trader/haggle2",
+      "minecraft:entity/wandering_trader/haggle3"
+    ]
+  },
+  "entity.wandering_trader.hurt": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/hurt1",
+      "minecraft:entity/wandering_trader/hurt2",
+      "minecraft:entity/wandering_trader/hurt3",
+      "minecraft:entity/wandering_trader/hurt4"
+    ]
+  },
+  "entity.wandering_trader.no": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/no1",
+      "minecraft:entity/wandering_trader/no2",
+      "minecraft:entity/wandering_trader/no3",
+      "minecraft:entity/wandering_trader/no4",
+      "minecraft:entity/wandering_trader/no5"
+    ]
+  },
+  "entity.wandering_trader.reappeared": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/reappeared1",
+      "minecraft:entity/wandering_trader/reappeared2"
+    ]
+  },
+  "entity.wandering_trader.trade": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/yes1",
+      "minecraft:entity/wandering_trader/yes2",
+      "minecraft:entity/wandering_trader/yes3",
+      "minecraft:entity/wandering_trader/yes4"
+    ]
+  },
+  "entity.wandering_trader.yes": {
+    "sounds": [
+      "minecraft:entity/wandering_trader/yes1",
+      "minecraft:entity/wandering_trader/yes2",
+      "minecraft:entity/wandering_trader/yes3",
+      "minecraft:entity/wandering_trader/yes4"
+    ]
+  }
+}

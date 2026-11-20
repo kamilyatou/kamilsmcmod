@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kamilsmcmod",
+  "version": "${version}",
+  "name": "Kamil's Mod",
+  "description": "Rethemed Nitwits into Bad Arms Dealers with scam trades, RE4 Merchant Wandering Traders, and the Unreliability curse.",
+  "authors": [
+    "kamilyatou",
+    "bsiamer"
+  ],
+  "contact": {
+    "homepage": "https://github.com/kamilyatou/kamilsmcmod",
+    "sources": "https://github.com/kamilyatou/kamilsmcmod"
+  },
+  "license": "MIT",
+  "icon": "assets/minecraft/textures/entity/villager/profession/nitwit.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.kamilyatou.kamilsmcmod.KamilsMcMod"
+    ]
+  },
+  "mixins": [
+    "kamilsmcmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.3-",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "entity_model_features": "*"
+  }
+}
