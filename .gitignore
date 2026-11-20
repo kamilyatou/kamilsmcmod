@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+bin/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.ipr
+*.iws
+
+# Minecraft / Fabric Run
+run/
+.fabric/
+hs_err_pid*
+replay_pid*
