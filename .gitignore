@@ -16,3 +16,4 @@ run/
 .fabric/
 hs_err_pid*
 replay_pid*
+*.jar
