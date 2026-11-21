@@ -6,7 +6,8 @@
   "mixins": [
     "VillagerEntityMixin",
     "CrossbowItemMixin",
-    "WanderingTraderEntityMixin"
+    "WanderingTraderEntityMixin",
+    "WanderingTraderSpawnerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
